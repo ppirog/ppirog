@@ -1,4 +1,4 @@
-<h3 align="center">Hi 👋! My name is Paweł and I'm a computer science student from Lublin</h3>
+<h3 align="center">Hi 👋! My name is Paweł and I'm a computer science graduate from Lublin</h3>
 
 ###
 
